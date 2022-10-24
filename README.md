@@ -1,4 +1,4 @@
-# proyectoPracticaGrupal
+# Proyecto Practica Grupal
 
 PROYECTO FINAL
 APP RECORDATORIO PARA ROTACION DE CUBIERTAS DE VEHICULO
